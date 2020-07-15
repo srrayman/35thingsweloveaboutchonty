@@ -17,6 +17,9 @@ var displayPane = document.querySelector('#display-pane');
 displayPane.style.display ="block";
 var h3 = document.querySelector('h3');
 h3.style.display = "none";
+var button1 = document.querySelector('#button1')
+button1.style.background = "white";
+button1.style.color = "black";
 })
 
 
@@ -31,10 +34,15 @@ button2.addEventListener('click', function () {
 //step 3 once clicked, add new reason we love Chonty
 var addText = document.querySelector('#display-pane')
 addText.innerHTML = "Your wonderful mandarin song (and dance).";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
 addText.style.color = "black";
 addText.style.paddingTop = "70px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var button2 = document.querySelector('#button2')
+button2.style.background = "white";
+button2.style.color = "black";
 })
 
 //BUTTON 3
@@ -53,6 +61,11 @@ addText.style.padding = "40px";
 addText.style.paddingTop = "70px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button3 = document.querySelector('#button3')
+button3.style.background = "white";
+button3.style.color = "black";
 })
 
 //BUTTON 4
@@ -71,6 +84,11 @@ addText.style.padding = "80px";
 addText.style.paddingTop = "70px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button4 = document.querySelector('#button4')
+button4.style.background = "white";
+button4.style.color = "black";
 })
 
 //BUTTON 5
@@ -88,6 +106,11 @@ addText.style.color = "black";
 addText.style.paddingTop = "70px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button5 = document.querySelector('#button5')
+button5.style.background = "white";
+button5.style.color = "black";
 })
 
 //BUTTON 6
@@ -106,6 +129,11 @@ addText.style.padding = "20px";
 addText.style.paddingTop = "50px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button6 = document.querySelector('#button6')
+button6.style.background = "white";
+button6.style.color = "black";
 })
 
 //BUTTON 7
@@ -123,6 +151,11 @@ addText.style.color = "black";
 addText.style.paddingTop = "70px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button7 = document.querySelector('#button7')
+button7.style.background = "white";
+button7.style.color = "black";
 })
 
 //BUTTON 8
@@ -141,6 +174,11 @@ addText.style.padding = "20px";
 addText.style.paddingTop = "50px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button8 = document.querySelector('#button8')
+button8.style.background = "white";
+button8.style.color = "black";
 })
 
 //BUTTON 9
@@ -159,6 +197,11 @@ addText.style.padding = "90px";
 addText.style.paddingTop = "70px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button9 = document.querySelector('#button9')
+button9.style.background = "white";
+button9.style.color = "black";
 })
 
 //BUTTON 10
@@ -177,6 +220,11 @@ addText.style.padding = "20px";
 addText.style.paddingTop = "50px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button10 = document.querySelector('#button10')
+button10.style.background = "white";
+button10.style.color = "black";
 })
 
 //BUTTON 11
@@ -195,6 +243,11 @@ addText.style.padding = "70px";
 addText.style.paddingTop = "50px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button11 = document.querySelector('#button11')
+button11.style.background = "white";
+button11.style.color = "black";
 })
 
 //BUTTON 12
@@ -213,6 +266,11 @@ addText.style.padding = "90px";
 addText.style.paddingTop = "70px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button12 = document.querySelector('#button12')
+button12.style.background = "white";
+button12.style.color = "black";
 })
 
 //BUTTON 13
@@ -231,6 +289,11 @@ addText.style.padding = "70px";
 addText.style.paddingTop = "50px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button13 = document.querySelector('#button13')
+button13.style.background = "white";
+button13.style.color = "black";
 })
 
 //BUTTON 14
@@ -249,6 +312,11 @@ addText.style.padding = "90px";
 addText.style.paddingTop = "70px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button14 = document.querySelector('#button14')
+button14.style.background = "white";
+button14.style.color = "black";
 })
 
 //BUTTON 15
@@ -267,6 +335,11 @@ addText.style.padding = "70px";
 addText.style.paddingTop = "50px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button15 = document.querySelector('#button15')
+button15.style.background = "white";
+button15.style.color = "black";
 })
 
 //BUTTON 16
@@ -285,6 +358,11 @@ addText.style.padding = "70px";
 addText.style.paddingTop = "40px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button16 = document.querySelector('#button16')
+button16.style.background = "white";
+button16.style.color = "black";
 })
 
 //BUTTON 17
@@ -303,6 +381,11 @@ addText.style.padding = "70px";
 addText.style.paddingTop = "40px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button17 = document.querySelector('#button17')
+button17.style.background = "white";
+button17.style.color = "black";
 })
 
 //BUTTON 18
@@ -321,6 +404,11 @@ addText.style.padding = "70px";
 addText.style.paddingTop = "50px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button18 = document.querySelector('#button18')
+button18.style.background = "white";
+button18.style.color = "black";
 })
 
 //BUTTON 19
@@ -339,6 +427,11 @@ addText.style.padding = "70px";
 addText.style.paddingTop = "40px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button19 = document.querySelector('#button19')
+button19.style.background = "white";
+button19.style.color = "black";
 })
 
 //BUTTON 20
@@ -357,6 +450,11 @@ addText.style.padding = "70px";
 addText.style.paddingTop = "70px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button20 = document.querySelector('#button20')
+button20.style.background = "white";
+button20.style.color = "black";
 })
 
 //BUTTON 21
@@ -375,6 +473,11 @@ addText.style.padding = "70px";
 addText.style.paddingTop = "50px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button21 = document.querySelector('#button21')
+button21.style.background = "white";
+button21.style.color = "black";
 })
 
 //BUTTON 22
@@ -393,6 +496,11 @@ addText.style.padding = "70px";
 addText.style.paddingTop = "40px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button22 = document.querySelector('#button22')
+button22.style.background = "white";
+button22.style.color = "black";
 })
 
 //BUTTON 23
@@ -411,6 +519,11 @@ addText.style.padding = "70px";
 addText.style.paddingTop = "70px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button23 = document.querySelector('#button23')
+button23.style.background = "white";
+button23.style.color = "black";
 })
 
 //BUTTON 24
@@ -429,6 +542,11 @@ addText.style.padding = "70px";
 addText.style.paddingTop = "50px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button24 = document.querySelector('#button24')
+button24.style.background = "white";
+button24.style.color = "black";
 })
 
 //BUTTON 25
@@ -447,6 +565,11 @@ addText.style.padding = "70px";
 addText.style.paddingTop = "70px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button25 = document.querySelector('#button25')
+button25.style.background = "white";
+button25.style.color = "black";
 })
 
 //BUTTON 26
@@ -465,6 +588,11 @@ addText.style.padding = "70px";
 addText.style.paddingTop = "70px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button26 = document.querySelector('#button26')
+button26.style.background = "white";
+button26.style.color = "black";
 })
 
 //BUTTON 27
@@ -483,6 +611,11 @@ addText.style.padding = "70px";
 addText.style.paddingTop = "70px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button27 = document.querySelector('#button27')
+button27.style.background = "white";
+button27.style.color = "black";
 })
 
 //BUTTON 28
@@ -501,6 +634,11 @@ addText.style.padding = "70px";
 addText.style.paddingTop = "50px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button28 = document.querySelector('#button28')
+button28.style.background = "white";
+button28.style.color = "black";
 })
 
 //BUTTON 29
@@ -519,6 +657,11 @@ addText.style.padding = "70px";
 addText.style.paddingTop = "70px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button29 = document.querySelector('#button29')
+button29.style.background = "white";
+button29.style.color = "black";
 })
 
 //BUTTON 30
@@ -537,6 +680,11 @@ addText.style.padding = "70px";
 addText.style.paddingTop = "70px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button30 = document.querySelector('#button30')
+button30.style.background = "white";
+button30.style.color = "black";
 })
 
 //BUTTON 31
@@ -555,6 +703,11 @@ addText.style.padding = "70px";
 addText.style.paddingTop = "40px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button31 = document.querySelector('#button31')
+button31.style.background = "white";
+button31.style.color = "black";
 })
 
 //BUTTON 32
@@ -573,6 +726,11 @@ addText.style.padding = "70px";
 addText.style.paddingTop = "70px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button32 = document.querySelector('#button32')
+button32.style.background = "white";
+button32.style.color = "black";
 })
 
 //BUTTON 33
@@ -591,6 +749,11 @@ addText.style.padding = "70px";
 addText.style.paddingTop = "70px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button33 = document.querySelector('#button33')
+button33.style.background = "white";
+button33.style.color = "black";
 })
 
 //BUTTON 34
@@ -609,6 +772,11 @@ addText.style.padding = "70px";
 addText.style.paddingTop = "70px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button34 = document.querySelector('#button34')
+button34.style.background = "white";
+button34.style.color = "black";
 })
 
 //BUTTON 35
@@ -627,6 +795,11 @@ addText.style.padding = "70px";
 addText.style.paddingTop = "70px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
+var displayPane = document.querySelector('#display-pane');
+displayPane.style.display ="block";
+var button35 = document.querySelector('#button35')
+button35.style.background = "white";
+button35.style.color = "black";
 })
 
 
