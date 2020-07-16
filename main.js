@@ -37,7 +37,7 @@ addText.innerHTML = "Your wonderful mandarin song (and dance).";
 var displayPane = document.querySelector('#display-pane');
 displayPane.style.display ="block";
 addText.style.color = "black";
-addText.style.paddingTop = "70px";
+addText.style.verticalAlign = "70px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
 var button2 = document.querySelector('#button2')
@@ -101,9 +101,9 @@ button5.addEventListener('click', function () {
 
 //step 3 once clicked, add new reason we love Chonty
 var addText = document.querySelector('#display-pane')
-addText.innerHTML = "You are so good at everything you do, except your Nelson Mandela impression.";
+addText.innerHTML = "You are so good at everything you do, except your Talib Kweli Nelson Mandela impression.";
 addText.style.color = "black";
-addText.style.paddingTop = "70px";
+addText.style.paddingTop = "50px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
 var displayPane = document.querySelector('#display-pane');
@@ -126,7 +126,7 @@ var addText = document.querySelector('#display-pane')
 addText.innerHTML = "You are an amazing dancer, and you encourage all Raymans to dance, even though we don't possess the same innate skill as you.";
 addText.style.color = "black";
 addText.style.padding = "20px";
-addText.style.paddingTop = "50px";
+addText.style.paddingTop = "40px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
 var displayPane = document.querySelector('#display-pane');
@@ -171,7 +171,7 @@ var addText = document.querySelector('#display-pane')
 addText.innerHTML = "You are very particular about your silverware: the thought of using anything but a soup spoon for soup shocks and horrifies you.";
 addText.style.color = "black";
 addText.style.padding = "20px";
-addText.style.paddingTop = "50px";
+addText.style.paddingTop = "40px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
 var displayPane = document.querySelector('#display-pane');
@@ -332,7 +332,7 @@ var addText = document.querySelector('#display-pane')
 addText.innerHTML = "Thank you for letting me crash pretty much everything with you and Nadav and never making me feel like a third wheel!";
 addText.style.color = "black";
 addText.style.padding = "70px";
-addText.style.paddingTop = "50px";
+addText.style.paddingTop = "30px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
 var displayPane = document.querySelector('#display-pane');
@@ -378,7 +378,7 @@ var addText = document.querySelector('#display-pane')
 addText.innerHTML = "That game we played where we hid the hairdryer diffuser from each other. That's when I knew you were one of us, and we would have to keep you around!";
 addText.style.color = "black";
 addText.style.padding = "70px";
-addText.style.paddingTop = "40px";
+addText.style.paddingTop = "20px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
 var displayPane = document.querySelector('#display-pane');
@@ -401,7 +401,7 @@ var addText = document.querySelector('#display-pane')
 addText.innerHTML = "You have an impeccable knowledge of knots. It makes me feel secure, especially underneath our hanging garden.";
 addText.style.color = "black";
 addText.style.padding = "70px";
-addText.style.paddingTop = "50px";
+addText.style.paddingTop = "40px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
 var displayPane = document.querySelector('#display-pane');
@@ -447,7 +447,7 @@ var addText = document.querySelector('#display-pane')
 addText.innerHTML = "Doing life with you is fun and easy in a way I hadn't imagined before.";
 addText.style.color = "black";
 addText.style.padding = "70px";
-addText.style.paddingTop = "70px";
+addText.style.paddingTop = "50px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
 var displayPane = document.querySelector('#display-pane');
@@ -470,7 +470,7 @@ var addText = document.querySelector('#display-pane')
 addText.innerHTML = "You are my favourite blend of strong yet soft natured, creative yet practical. You would make a good coffee blend.";
 addText.style.color = "black";
 addText.style.padding = "70px";
-addText.style.paddingTop = "50px";
+addText.style.paddingTop = "30px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
 var displayPane = document.querySelector('#display-pane');
@@ -493,7 +493,7 @@ var addText = document.querySelector('#display-pane')
 addText.innerHTML = "You have an amazing musical ear. You nail D'Angelo vocal nuances really well, and all of the teachers in Cuba seemed to be focused on your rhythm skills.";
 addText.style.color = "black";
 addText.style.padding = "70px";
-addText.style.paddingTop = "40px";
+addText.style.paddingTop = "20px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
 var displayPane = document.querySelector('#display-pane');
@@ -516,7 +516,7 @@ var addText = document.querySelector('#display-pane')
 addText.innerHTML = "You have a wide repertoire of sounds of enjoyment. You should release an album.";
 addText.style.color = "black";
 addText.style.padding = "70px";
-addText.style.paddingTop = "70px";
+addText.style.paddingTop = "50px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
 var displayPane = document.querySelector('#display-pane');
@@ -585,7 +585,7 @@ var addText = document.querySelector('#display-pane')
 addText.innerHTML = "You're not afraid to stand up for your principles, and talk about taboo topics.";
 addText.style.color = "black";
 addText.style.padding = "70px";
-addText.style.paddingTop = "70px";
+addText.style.paddingTop = "50px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
 var displayPane = document.querySelector('#display-pane');
@@ -677,7 +677,7 @@ var addText = document.querySelector('#display-pane')
 addText.innerHTML = "You take the time to appreciate life, it reminds me to be more grateful.";
 addText.style.color = "black";
 addText.style.padding = "70px";
-addText.style.paddingTop = "70px";
+addText.style.paddingTop = "40px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
 var displayPane = document.querySelector('#display-pane');
@@ -700,7 +700,7 @@ var addText = document.querySelector('#display-pane')
 addText.innerHTML = "You have the most beautiful heart. I can say this with complete confidence because I took an ultrasound of it when you were sleeping one day.";
 addText.style.color = "black";
 addText.style.padding = "70px";
-addText.style.paddingTop = "40px";
+addText.style.paddingTop = "20px";
 addText.style.boxSizing = "border-box";
 addText.style.lineHeight = "2";
 var displayPane = document.querySelector('#display-pane');
@@ -801,27 +801,5 @@ var button35 = document.querySelector('#button35')
 button35.style.background = "white";
 button35.style.color = "black";
 })
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
