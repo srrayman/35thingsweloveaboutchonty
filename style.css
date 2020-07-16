@@ -80,10 +80,8 @@ h4 {
 
 #display-pane {
     display: none;
-    width: 700px;
-    height: 200px;
+    width: 100%;
     background-color :#39b54a;
-    margin: 30px auto;
     text-align: center;
     padding: 20px;
     position: sticky;
